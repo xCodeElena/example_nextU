@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					D14EE7111EA941B5005E0741 = {
 						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = A8Y3BM2NKD;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,7 +261,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = A8Y3BM2NKD;
 				INFOPLIST_FILE = MiProyecto/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.nextu.developer.MiProyecto;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +275,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = A8Y3BM2NKD;
 				INFOPLIST_FILE = MiProyecto/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.nextu.developer.MiProyecto;
 				PRODUCT_NAME = "$(TARGET_NAME)";
