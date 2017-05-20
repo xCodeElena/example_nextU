@@ -24,12 +24,22 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    
+    
+    func Hola(){
+    
+    
+    
+    }
 
     @IBAction func actionButton(_ sender: Any) {
         
         labelName.text = "Hola )"
    view.endEditing(true)
     }
+    
+    
     
 
 }
